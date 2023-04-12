@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "615c0458-b4a4-4a8f-a932-007e4c5119e4",
-		"name": "Assessment 1 Test Suite",
+		"name": "Twitter Clone Test Suite",
 		"description": "Collection of endpoints to test the APIs the students create for their second assessment.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
