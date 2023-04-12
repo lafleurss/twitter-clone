@@ -1,4 +1,4 @@
-Assessment 1
+Twitter Clone
 ===============================
 
 ## Overview
