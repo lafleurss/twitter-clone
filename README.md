@@ -8,7 +8,7 @@ Implemented a RESTful API using Spring Boot, JPA, and Postgresql that exposes op
 Developed a suitable database schema and wrote Spring services and controllers to handle requests, perform validation and business logic, and to transform data between the API and database models.
 
 ## Testing the API
-Included in this skeleton are 2 json files required to run the test suite for the project. To run the tests you will need postman's newman CLI. To install newman run the command `npm install -g newman`. Once newman is installed you need to navigate to the folder containing the Assessment 1 Test Suite & Assessment 1 environment json files. Once there you can run the command `newman run "Assessment 1 Test Suite.postman_collection.json" -e "Assessment 1.postman_environment.json"`. When all tests are passing successfully you will pass 330 assertions and should see something similar to the following in your terminal:
+Included in this skeleton are 2 json files required to run the test suite for the project. To run the tests you will need postman's newman CLI. To install newman run the command `npm install -g newman`. Once newman is installed you need to navigate to the folder containing the Twitter Clone Test Suite & Twitter Clone environment json files. Once there you can run the command `newman run "Twitter Clone Test Suite.postman_collection.json" -e "Twitter Clone.postman_environment.json"`. When all tests are passing successfully you will pass 330 assertions and should see something similar to the following in your terminal:
 
 <img width="458" alt="successful_tests" src="https://user-images.githubusercontent.com/12191780/222555974-53992ad3-155c-4e77-9205-bc3b908e093c.png">
 
